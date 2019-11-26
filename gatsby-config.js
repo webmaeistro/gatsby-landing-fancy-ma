@@ -23,7 +23,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-landing-ma`,
-        short_name: `Arty`,
+        short_name: `phancy`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
@@ -43,9 +43,9 @@ module.exports = {
     {
       resolve: `gatsby-source-contentful`,
       options: {
-        spaceId: process.env.CONTENTFUL_SPACE_ID,
+        spaceId: `1`,
         // Learn about environment variables: https://gatsby.app/env-vars
-        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+        accessToken: `225`,
       },
     },
     {
