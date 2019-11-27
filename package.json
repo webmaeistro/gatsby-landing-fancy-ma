@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-landing-ma",
+  "name": "martin",
   "private": true,
   "description": "A fancy smancy page built with Gatsby, CSS Grid and styled-components",
-  "version": "0.2.0",
+  "version": "1.2.0",
   "author": "Martin Andersen <marander@pm.me>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
