@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-landing-ma`,
-        short_name: `phancy`,
+        name: `Martin Andersen | Who?`,
+        short_name: `Imma`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
@@ -43,9 +43,9 @@ module.exports = {
     {
       resolve: `gatsby-source-contentful`,
       options: {
-        spaceId: `1`,
+        spaceId: `0f919856zwcl`,
         // Learn about environment variables: https://gatsby.app/env-vars
-        accessToken: `225`,
+        accessToken: `DOibNjgIgUvEFhZ1VFwxhA0-t6o8RBIBc8NcSSEFaVg`,
       },
     },
     {
