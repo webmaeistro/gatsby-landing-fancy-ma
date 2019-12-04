@@ -22,7 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Martin Andersen | Who?`,
+        name: `Martin Andersen`,
         short_name: `Imma`,
         start_url: `/`,
         background_color: `#663399`,
